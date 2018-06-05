@@ -5,7 +5,7 @@ Pentris is a game heavily inspired by Tetris, the main difference being that it 
 
 I created Petris as an attempt / learning experience in creating a game without relying on a prebuilt engine. 
 Pentris makes effective use of SDL library, which creates the game window, and provides an easy way to render the game's images.
-Version 1.0 is very basic, but contains a functional core game. I plan on adding more to the game, further familiarising myself with the SDL library. Currently the project is a Visual Studio solution.
+Version 1.0 is very basic, but contains a functional core game. I plan on adding more to the game, further familiarising myself with the SDL library.
 
 
 Basic gameplay
